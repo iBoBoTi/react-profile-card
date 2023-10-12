@@ -28,7 +28,7 @@ function Information() {
   return (
     <div>
       <h2>Chukwuebuka Iroegbu</h2>
-      <p>A little information about me</p>
+      <p>I am a full stack developer with over 3 years of experience. With experience building fintech products using the below skills.</p>
     </div>
   );
 }
@@ -48,8 +48,20 @@ function SkillList() {
       color: "orange"
     },
     {
+      skill: "React 💪🏻",
+      color: "salmon"
+    },
+    {
+      skill: "GCP ☁️",
+      color: "cyan"
+    },
+    {
       skill: "Python 🐍",
-      color: "violet"
+      color: "teal"
+    },
+    {
+      skill: "Docker 🐳",
+      color: "skyblue"
     }
   ];
   return (
